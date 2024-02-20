@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ajith B</h1>
-<h3 align="center">I'm a full-stack developer with expertise in a wide array of technologies, including MERN (MongoDB, Express.js, React.js, Node.js) and Spring Boot. With a robust background in software engineering and practical experience in both frontend and backend development, Ajith excels in creating scalable and high-performance web applications.</h3>
+<h3 align="center">I'm a full-stack developer with expertise in a wide array of technologies, including MERN (MongoDB, Express.js, React.js, Node.js) and Spring Boot. With a robust background in software engineering and practical experience in both frontend and backend development, I excel in creating scalable and high-performance web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
